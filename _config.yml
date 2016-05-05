@@ -1,0 +1,26 @@
+color:
+  saturation: 0.9851223
+  brandStrength: 0.8782436
+  rhythmicContrast: 0.6688759
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  lightness: 0.1210585
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.6382974
+typography_spectrum: 0.3531626
+name: Codes
